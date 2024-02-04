@@ -1,5 +1,4 @@
-# LlamaIndex-Chatbot```markdown
-
+# LlamaIndex-Chatbot
 
 Welcome to the LlamaIndex Chatbot, an intelligent conversational agent powered by OpenAI's GPT-3.5 language model, integrated with LlamaIndex data, and presented through a user-friendly Streamlit interface.
 
